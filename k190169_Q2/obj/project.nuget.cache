@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JwrN0TTTOz4BOgjJVoAwNqlYODr0UhHGDtIEwlekQFzo4Uilks/tR5g2CwEr649x1EZgDoWBB3QMc9osLdY6JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonuk\\OneDrive\\Documents\\semester 7\\IPT\\IPT Assignment 1\\k190169_Q2\\k190169_Q2\\k190169_Q2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonuk\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
