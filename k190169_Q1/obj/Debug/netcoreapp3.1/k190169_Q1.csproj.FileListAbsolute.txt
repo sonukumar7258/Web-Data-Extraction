@@ -1,0 +1,14 @@
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\netcoreapp3.1\k190169_Q1.exe
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\netcoreapp3.1\k190169_Q1.deps.json
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\netcoreapp3.1\k190169_Q1.runtimeconfig.json
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\netcoreapp3.1\k190169_Q1.runtimeconfig.dev.json
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\netcoreapp3.1\k190169_Q1.dll
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\netcoreapp3.1\k190169_Q1.pdb
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\obj\Debug\netcoreapp3.1\k190169_Q1.csproj.AssemblyReference.cache
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\obj\Debug\netcoreapp3.1\k190169_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\obj\Debug\netcoreapp3.1\k190169_Q1.AssemblyInfoInputs.cache
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\obj\Debug\netcoreapp3.1\k190169_Q1.AssemblyInfo.cs
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\obj\Debug\netcoreapp3.1\k190169_Q1.csproj.CoreCompileInputs.cache
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\obj\Debug\netcoreapp3.1\k190169_Q1.dll
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\obj\Debug\netcoreapp3.1\k190169_Q1.pdb
+C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\obj\Debug\netcoreapp3.1\k190169_Q1.genruntimeconfig.cache
