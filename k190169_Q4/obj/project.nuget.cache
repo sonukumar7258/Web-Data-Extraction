@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELNGrdsReopltskg80n2MLquNK1fDbUm5TVV+FGCxYdLYBc6cybrYTK3SJ1qBRjslpdaO23Td5Mke3DaN7mU9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonuk\\source\\repos\\k190169_Q4\\k190169_Q4\\k190169_Q4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonuk\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

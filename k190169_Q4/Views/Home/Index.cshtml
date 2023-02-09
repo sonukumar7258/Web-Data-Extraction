@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="col-md-4">
+    <div class="col-md-4">
+        <h5 class="display-4">Categories</h5>
+        @Html.DropDownList("Id", ViewBag.Categories as SelectList, "Select Categories", new { @class = "form-Control" })
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <h5 class="display-4">Scripts</h5>
+        @Html.DropDownList("Id", ViewBag.scripts as SelectList, "Scripts", new { @class = "form-Control" })
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    </div>
+    <div class="col-md-4">
+        <h5 class="display-4">Prices</h5>
+        @Html.DropDownList("Id", ViewBag.prices as SelectList,"Prices",new { @class = "form-Control" })
+    </div>
+
+
+
+</div>
